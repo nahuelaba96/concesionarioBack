@@ -1,0 +1,36 @@
+RECETA 1 (alfajor completo)
+150 mandioca
+100 harina
+100 manteca
+2 huevos
+80 azucar
+
+RECETA 2 (tapitas)
+400 mandioca
+80 harina
+200 manteca
+2 huevos
+200 azucar
+
+RECETA 2  (divida al medio)
+200 mandioca
+40 harina
+100 manteca
+1 huevo
+100 azucar
+
+
+NOSOTROS TENEMOS
+500 mandioca
+500 harina
+200 manteca
+4 huevos
+200 azucar
+
+
+RECETA 1 + RECETA 2 (divida al medio)
+150 + 200 mandioca   = 350
+100 + 40 harina      = 140
+100 + 100 manteca    = 200
+2 + 1 huevos         = 3
+80 + 100 azucar      = 180

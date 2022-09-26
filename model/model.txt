@@ -1,0 +1,10 @@
+{"id": 1,"marca":"Honda","modelo": "Civic","anio": 1994,"km": 174000, "precio": 2500,"img":"honda_civic_1994.jpg"}
+{"id": 2,"marca":"Honda","modelo": "Accord","anio": 1992,"km": 230000, "precio": 3000,"img":"honda_accord_1992.jpg"}
+{"id": 3,"marca":"BMW","modelo": "528i","anio": 1998,"km": 224000, "precio": 6000,"img":"bmw_528i_1998.jpg"}
+{"id": 4,"marca":"BMW","modelo": "325i","anio": 2001,"km": 176000, "precio": 4500,"img":"bmw_325i_2001.jpg"}
+{"id": 5,"marca":"Volkswagen","modelo": "Gol","anio": 2005, "km": 156000, "precio": 3000,"img":"volkswagen_gol_2005.jpg"}
+{"id": 6,"marca":"Ford","modelo": "Focus","anio": 2001,"km": 189000,"precio": 2600,"img":"ford_focus_2001.jpg"}
+{"id": 7,"marca":"Chevrolet","modelo": "Corsa","anio": 2011, "km": 134000, "precio": 3500,"img":"chevrolet_corsa_2011.jpg"}
+{"id": 8,"marca":"Volkswagen","modelo": "Voyage","anio": 2014, "km": 96000, "precio": 4000,"img":"volkswagen_voyage_2014.jpg"}
+{"id": 9,"marca":"Ford","modelo": "Fiesta","anio": 2011, "km": 134000, "precio": 3000,"img":"ford_fiesta_2011.jpg"}
+{"id": 10,"marca":"Renault","modelo": "Clio","anio": 2010, "km": 76000, "precio": 3200,"img":"renault_clio_2010.jpg"}
